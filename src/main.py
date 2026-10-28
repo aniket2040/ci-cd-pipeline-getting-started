@@ -1,4 +1,6 @@
 def add(x, y):
-    return x + y
+    z = x + y
+    return z
 def subtract(x, y):
-    return x - y
+    z = x - y
+    return z
